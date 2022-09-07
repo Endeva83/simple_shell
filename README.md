@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a project to code up a simple (Unix) shell authored by Adesubokan Solomon Niyj and Yusuf Sarah
 # ALX Simple Shell Team Project
 
@@ -322,3 +323,5 @@ $
 ## Authors ##
 
 Yusuf Sarah Ibukunoluwa & Adesubokan Solomon Niyi.
+=======
+This is a project to code up a simple (Unix) shell authored by Adesubokan Solomon Niyi and Yusuf Sarahb
