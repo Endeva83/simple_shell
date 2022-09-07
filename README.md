@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-This is a project to code up a simple (Unix) shell authored by Adesubokan Solomon Niyj and Yusuf Sarah
 # ALX Simple Shell Team Project
 
 > This is an ALX collaboration project on Shell. We were tasked to create a simple shell that mimics the Bash shell. Our shell shall be called **hsh**
@@ -322,6 +320,5 @@ $
 
 ## Authors ##
 
-Yusuf Sarah Ibukunoluwa & Adesubokan Solomon Niyi.
-=======
-This is a project to code up a simple (Unix) shell authored by Adesubokan Solomon Niyi and Yusuf Sarahb
+👤 ** Yusuf Ibunkunlayo Sarah and Adesubokan Solomon Niyi 
+
