@@ -320,5 +320,5 @@ $
 
 ## Authors ##
 
-👤 ** Yusuf Ibunkunlayo Sarah and Adesubokan Solomon Niyi 
+👤 ** Yusuf Ibunkunoluwa Sarah and Adesubokan Solomon Niyi 
 
